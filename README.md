@@ -30,10 +30,14 @@ unordered list
          하위목차2
 
 강조하고 싶은 한줄 코드 `python`
-```python```
+```python
 
-```name="다람쥐"
-age=3```
+name="다람쥐"
+age=3
+```
+|    name    ||    gender    |
+|------------||--------------|
+|    다람쥐  ||    암컷    |
 
 add new line
 
