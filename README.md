@@ -27,10 +27,10 @@ ordered list
 unordered list
 - 순서없는 목차1
 - 목차2
-        - 하위목차2
+         하위목차2
 
 강조하고 싶은 한줄 코드 `python`
-```python
+```python```
 
 name="다람쥐"
 age=3
