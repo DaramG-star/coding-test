@@ -32,8 +32,8 @@ unordered list
 강조하고 싶은 한줄 코드 `python`
 ```python```
 
-name="다람쥐"
-age=3
+```name="다람쥐"
+age=3```
 
 add new line
 
