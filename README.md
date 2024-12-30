@@ -35,9 +35,11 @@ unordered list
 name="다람쥐"
 age=3
 ```
-|    name    ||    gender    |
-|------------||--------------|
-|    다람쥐  ||    암컷    |
+|    name    ||    gender |
+|------------||---------- |
+|    다람쥐  ||    암컷   |
+
+[다람쥐](https://naver.com)
 
 add new line
 
